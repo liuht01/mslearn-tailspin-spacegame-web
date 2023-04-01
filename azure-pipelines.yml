@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'SIEMENSDC'
+  default
 
 variables:
   buildConfiguration: 'Release'
